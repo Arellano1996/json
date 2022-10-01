@@ -1,0 +1,18 @@
+[
+    {
+        "imagen": "https://ling-online.net/media/filebrowser/video/movies/scarface/thumb_zr2p353wrd6j3wjLgDT4TcaestB.jpg",
+        "titulo": "Scarface",
+        "duracion": "2h 50min",
+        "director": "Brian De Palma",
+        "categorias": "Crimen, Drama",
+        "calificacion": "8.3"
+    },
+    {
+        "imagen": "https://ling-online.net/media/filebrowser/video/movies/the-lion-king-2019/thumb_2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
+        "titulo": "The Lion King",
+        "duracion": "1h 58min",
+        "director": "Jon Favreau",
+        "categorias": "Drama, Animacion",
+        "calificacion": "7.10"
+    }
+]
