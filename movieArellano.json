@@ -5,7 +5,8 @@
         "duracion": "2h 50min",
         "director": "Brian De Palma",
         "categorias": "Crimen, Drama",
-        "calificacion": "8.3"
+        "calificacion": "8.3",
+        "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
         "imagen": "https://ling-online.net/media/filebrowser/video/movies/the-lion-king-2019/thumb_2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
@@ -13,7 +14,8 @@
         "duracion": "1h 58min",
         "director": "Jon Favreau",
         "categorias": "Drama, Animacion",
-        "calificacion": "7.1"
+        "calificacion": "7.1",
+        "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
         "imagen": "https://ling-online.net/media/filebrowser/video/movies/braveheart/thumb_2qAgGeYdLjelOEqjW9FYvPHpplC.jpg",
@@ -21,6 +23,7 @@
         "duracion": "2h 58min",
         "director": "Mel Gibson",
         "categorias": "Biography, History, War, Drama, Action",
-        "calificacion": "8.4"
+        "calificacion": "8.4",
+        "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
 ]
