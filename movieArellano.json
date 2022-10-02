@@ -13,6 +13,14 @@
         "duracion": "1h 58min",
         "director": "Jon Favreau",
         "categorias": "Drama, Animacion",
-        "calificacion": "7.10"
+        "calificacion": "7.1"
+    },
+    {
+        "imagen": "https://ling-online.net/media/filebrowser/video/movies/braveheart/thumb_2qAgGeYdLjelOEqjW9FYvPHpplC.jpg",
+        "titulo": "Braveheart",
+        "duracion": "2h 58min",
+        "director": "Mel Gibson",
+        "categorias": "Biography, History, War, Drama, Action",
+        "calificacion": "8.4"
     }
 ]
